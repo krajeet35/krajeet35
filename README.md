@@ -1,4 +1,4 @@
- <img width="100%" src="https://blog.skillmonks.com/wp-content/uploads/2020/08/java-full-stack-developer-training-in-bangalore-tib.jpg" alt="Coder">
+<!--  <img width="100%" src="https://blog.skillmonks.com/wp-content/uploads/2020/08/java-full-stack-developer-training-in-bangalore-tib.jpg" alt="Coder"> -->
 
 <h1 align="center">Hi 👋, I'm Ajeet kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
